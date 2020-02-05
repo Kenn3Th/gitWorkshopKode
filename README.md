@@ -1,3 +1,3 @@
 # gitWorkshopKode
-Eksempel 
-La til tekst
+Eksempel \n
+La til tekst :fist:
